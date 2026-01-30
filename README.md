@@ -37,11 +37,15 @@ A modern, feature-rich contact management application built with React. Manage y
 
 | Add Contact Form | Contact List View |
 |------------------|-------------------|
-| ![Add Form](screenshots/form.png) | ![List View](screenshots/list.png) |
+| <img width="1008" height="372" alt="image" src="https://github.com/user-attachments/assets/fee6d543-2b1a-48e3-9dd3-7b7ef8e622d8" />
+ | <img width="483" height="374" alt="image" src="https://github.com/user-attachments/assets/9d1e4309-0808-4202-bf0b-3cc164da3092" />
+ |
 
 | Edit Mode | Mobile View |
 |-----------|-------------|
-| ![Edit Mode](screenshots/edit.png) | ![Mobile](screenshots/mobile.png) |
+| <img width="997" height="429" alt="image" src="https://github.com/user-attachments/assets/b2d952d7-e481-492a-af92-28e968ab7c06" />
+ | <img width="478" height="369" alt="image" src="https://github.com/user-attachments/assets/26378676-cae2-4e8c-bde1-ce139f1332b1" />
+ |
 
 ## 🛠️ Tech Stack
 
@@ -142,7 +146,7 @@ To change the default avatar colors, modify the UI Avatars URL in the code:
 <img src="screenshots/mobile-view.png" alt="Mobile View" width="300">
 
 ### 🖼️ Image Upload Feature
-<img src="screenshots/image-upload.png" alt="Image Upload" width="800">
+
 <img width="1364" height="762" alt="image" src="https://github.com/user-attachments/assets/649440d9-4198-48fa-b01a-0680b78a30fa" />
 <img width="1107" height="516" alt="image" src="https://github.com/user-attachments/assets/6c4889ba-bd1d-4ccf-92f8-08f7ea97174b" />
 <img width="1134" height="562" alt="image" src="https://github.com/user-attachments/assets/1c819e2c-510a-4e3f-bbd5-a8c8f9799364" />
@@ -150,4 +154,4 @@ To change the default avatar colors, modify the UI Avatars URL in the code:
 
 
 
->>>>>>> d349b5e67b3b8565877160606d5925f3a3d9371b
+
