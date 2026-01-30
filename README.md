@@ -133,17 +133,7 @@ Changing Avatar Colors
 To change the default avatar colors, modify the UI Avatars URL in the code:
 ## 📸 Screenshots
 
-### 🏠 Main Dashboard
-<img src="screenshots/dashboard.png" alt="Dashboard" width="800">
 
-### ✨ Add Contact Form
-<img src="screenshots/add-contact.png" alt="Add Contact Form" width="800">
-
-### ✏️ Edit Contact Mode
-<img src="screenshots/edit-mode.png" alt="Edit Contact" width="800">
-
-### 📱 Mobile Responsive View
-<img src="screenshots/mobile-view.png" alt="Mobile View" width="300">
 
 ### 🖼️ Image Upload Feature
 
