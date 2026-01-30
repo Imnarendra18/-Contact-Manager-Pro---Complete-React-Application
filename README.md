@@ -3,7 +3,7 @@
 
 A modern, feature-rich contact management application built with React. Manage your contacts with full CRUD operations, profile images, and a beautiful UI.
 
-![Contact Manager Screenshot](screenshot.png)
+
 
 ## ✨ Features
 
