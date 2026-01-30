@@ -30,7 +30,7 @@ A modern, feature-rich contact management application built with React. Manage y
 
 ## 🚀 Live Demo
 
-[Click here to view live demo](#) *(Add your deployment link)*
+[Click here to view live demo](#) *([Add your deployment link](http://localhost:5173/))*
 
 ## 📸 Screenshots
 
